@@ -6,7 +6,10 @@ Usage requires Python 3.4 to be installed on your machine.  Tested with Anaconda
 installer.  Anaconda was installed to C:\Python3 on a Windows 7 machine.  Project
 defaults to that location.
 
-Consider this a work in progress.  It works, and allows one to execute wxternal Python
+Consider this a work in progress.  It works and allows one to execute external Python
 scripts from AFL, but I haven't implemented any sharing of data arrays between AFL 
 and Python yet.
+
+Will continue as time permits and I posting the code in the hopes other may
+collaborate with code and/or advice.
 
