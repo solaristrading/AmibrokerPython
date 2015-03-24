@@ -10,6 +10,6 @@ Consider this a work in progress.  It works and allows one to execute external P
 scripts from AFL, but I haven't implemented any sharing of data arrays between AFL 
 and Python yet.
 
-Will continue as time permits and I posting the code in the hopes other may
+Will continue as time permits and I am posting the code in the hopes others may
 collaborate with code and/or advice.
 
